@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\bilgiyarişmasi\bilgiyarişmasi\bin\Debug\bilgiyarişmasi.exe.config
+C:\Users\asus\source\repos\bilgiyarişmasi\bilgiyarişmasi\bin\Debug\bilgiyarişmasi.exe
+C:\Users\asus\source\repos\bilgiyarişmasi\bilgiyarişmasi\bin\Debug\bilgiyarişmasi.pdb
+C:\Users\asus\source\repos\bilgiyarişmasi\bilgiyarişmasi\obj\Debug\bilgiyarişmasi.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\bilgiyarişmasi\bilgiyarişmasi\obj\Debug\bilgiyarişmasi.Form1.resources
+C:\Users\asus\source\repos\bilgiyarişmasi\bilgiyarişmasi\obj\Debug\bilgiyarişmasi.Properties.Resources.resources
+C:\Users\asus\source\repos\bilgiyarişmasi\bilgiyarişmasi\obj\Debug\bilgiyarişmasi.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\bilgiyarişmasi\bilgiyarişmasi\obj\Debug\bilgiyarişmasi.exe
+C:\Users\asus\source\repos\bilgiyarişmasi\bilgiyarişmasi\obj\Debug\bilgiyarişmasi.pdb
